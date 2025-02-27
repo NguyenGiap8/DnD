@@ -2,33 +2,25 @@
 obsidianUIMode: preview
 NoteIcon: npc
 NoteStatus: New
-char_location: "[[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md|Lampoteuo City]]"
+char_location: 
+level:
 ---
 
 
 > [!column] Basic Details
 >> [!info] Name
->> Home Location: `INPUT[suggester(optionQuery("2-World")):char_location]` 
->> Titles:
->> Gender: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
->> Race:
->> Age:
->> Height:
->> Weight:
->> Date of Birth:
->> Date of Death:
+>> **Home Location:** `INPUT[suggester(optionQuery("2-World")):char_location]` 
+>> **Titles:**
+>> **Gender:** `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
+>> **Race:**
+>> **Age:**
+>> **Height:**
+>> **Weight:**
+>> **Date of Birth:**
+>> **Date of Death:**
 >
 >> [!note] Column 3
 >> ![[Pasted image 20240607151510.png|300]]
-
-
-
-| Gender |
-| ------ |
-| Male   |
-| Female |
-^GenderSelect
-
 
 
 #### Description

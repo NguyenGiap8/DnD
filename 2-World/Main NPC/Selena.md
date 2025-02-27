@@ -1,24 +1,26 @@
 ---
-fc-display-name: Goth Mog
-NoteIcon: player
-level: "1"
+obsidianUIMode: preview
+NoteIcon: npc
+NoteStatus: New
 char_location: Republic of Bosted
 ---
+**Selena, the Stalwart Human Fighter and Owner of the Starlit Tavern**
+
 
 > [!column] Basic Details
->> [!info] Moth Goth
->> Home Location: `INPUT[suggester(optionQuery("2-World")):char_location]` 
->> Titles: The Lustful Rouge
->> Gender: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
->> Race: Orc
->> Age: 12
->> Height: 
->> Weight:
->> Date of Birth:
->> Date of Death:
+>> [!info] Selena
+>> **Home Location**: `INPUT[suggester(optionQuery("2-World")):char_location]` 
+>> **Titles**: the Stalwart Human Fighter and Owner of the Starlit Tavern
+>> **Gender**: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
+>> **Race**: Human
+>> **Age**: 34
+>> **Height**: 169
+>> **Weight**: 65 kg
+>> **Date of Birth**: 28 April 1015
+>> **Date of Death**:
 >
 >> [!note] Column 3
->>![[Pasted image 20250227230431.png|275 x 375]]
+>> ![[Pasted image 20250227231428.png|300]]
 
 
 
@@ -67,3 +69,4 @@ Known Spells:
 Known Languages:
 Known Magical Teachings:
 Known Technlogy/Science:
+
