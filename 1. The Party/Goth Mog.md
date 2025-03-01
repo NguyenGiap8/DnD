@@ -3,22 +3,23 @@ fc-display-name: Goth Mog
 NoteIcon: player
 level: "1"
 char_location: Republic of Bosted
+Gender: Male
 ---
 
 > [!column] Basic Details
->> [!info] Moth Goth
+>> [!info] Goth Mog 
 >> Home Location: `INPUT[suggester(optionQuery("2-World")):char_location]` 
 >> Titles: The Lustful Rouge
 >> Gender: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
 >> Race: Orc
 >> Age: 12
->> Height: 
->> Weight:
+>> Height: 8ft 2inches (249)
+>> Weight: 450lbs
 >> Date of Birth:
 >> Date of Death:
 >
 >> [!note] Column 3
->>![[Pasted image 20250227230431.png|275 x 375]]
+>>![[Pasted image 20250228201219.png|450 x 375]]
 
 
 
