@@ -8,7 +8,9 @@ Goth Mog intro:
 ![[John Cena - The Time Is Now (Entrance Theme).mp3]]
 
 Music in Tavern:
-![[Gravity Falls Intro x playboi carti.mp3]]
+1![[Gravity Falls Intro x playboi carti.mp3]]
+2![[DIE FOR YOU X FE!N (SEAMLESS TRANSITION) - JOJI X TRAVIS SCOTT, PLAYBOI CARTI.mp3]]
+3![[0306.wav]]
 
 Find Aelwyn body:
 ![[Ace savage- Scheming, Best part looped.mp3]]
