@@ -4,6 +4,7 @@ NoteIcon: player
 level: "1"
 char_location: Republic of Bosted
 Gender: Male
+NoteStatus: New
 ---
 
 > [!column] Basic Details
@@ -19,7 +20,8 @@ Gender: Male
 >> Date of Death:
 >
 >> [!note] Column 3
->>![[Pasted image 20250228201219.png|450 x 375]]
+>>![[Pasted image 20250227230431.png|450 x 375]]
+
 
 
 

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 NoteIcon: npc
 NoteStatus: New
 char_location: Republic of Bosted
+char_gender: Female
 ---
 **Selena, the Stalwart Human Fighter and Owner of the Starlit Tavern**
 
