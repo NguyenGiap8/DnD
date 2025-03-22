@@ -66,3 +66,5 @@ Aelwyn recorded message:
 Thorne Ashford Music with his wife
 ![[ssstik.io_1741269148220.mp3]]
 
+#### combat encounter:
+
